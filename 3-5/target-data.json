@@ -1,0 +1,9 @@
+[{"id": "target0", "cat": 0, "lat": 60.16891899546063, "lon": 29.85543933806338, "SOG": 15.0, "COG": 140.0, "first_detect_dist": 5.0, "cross_dist": 0, "timestamp": 1594797457},
+
+ {"id": "target1", "cat": 0, "lat": 60.22994430831392, "lon": 29.974933439643763, "SOG": 24.0, "COG": 94.0, "first_detect_dist": 5.0, "cross_dist": 0, "timestamp": 1594797457}, 
+
+{"id": "target2", "cat": 0, "lat": 60.164831594482095, "lon": 30.05281364968205, "SOG": 9.0, "COG": 28.0, "first_detect_dist": 5.0, "cross_dist": 0, "timestamp": 1594797457},
+
+ {"id": "target3", "cat": 0, "lat": 60.07894801901571, "lon": 30.05267632042374, "SOG": 12.0, "COG": 32.0, "first_detect_dist": 5.0, "cross_dist": 0, "timestamp": 1594797457},
+
+ {"id": "target4", "cat": 0, "lat": 60.029028754875355, "lon": 30.127339839764357, "SOG": 9.0, "COG": 24.0, "first_detect_dist": 5.0, "cross_dist": 0, "timestamp": 1594797457}]
