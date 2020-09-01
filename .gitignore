@@ -4,3 +4,6 @@
 *.JPG
 *.py
 *.html
+*.vs
+*/maneuver.json
+*/target-maneuver.json
