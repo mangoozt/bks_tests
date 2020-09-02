@@ -6,5 +6,5 @@
 *.html
 *.vs
 */maneuver.json
-*/target-maneuver.json
+*/target-maneuvers.json
 */*/*
