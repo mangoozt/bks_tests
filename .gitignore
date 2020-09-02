@@ -7,3 +7,5 @@
 *.vs
 */maneuver.json
 */target-maneuver.json
+*/*
+*/*/*
