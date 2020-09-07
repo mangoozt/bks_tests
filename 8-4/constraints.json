@@ -1,30 +1,77 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", 
-"properties": {"id": "96079", "source_id": "5119", 
-"limitation_type": "movement_parameters_limitation", 
-"hardness": "soft", "source_object_code": "RECTRC", 
-"min_course": 90, "max_course": 270, "max_speed": 10000000000.0}, 
-"geometry": {"type": "Polygon", "coordinates": [
-[
-[29.656840770917917, 60.53227413407],
-[29.6598597734536, 59.540411140949564], 
-[29.71880374480597, 59.540549990648776], 
-[29.716307898260894, 60.532414347282976]]]
-}},
- {"type": "Feature", "properties": 
- {"id": "96079", "source_id": "5119", 
- "limitation_type": "movement_parameters_limitation", 
- "hardness": "soft", "source_object_code": "RECTRC", 
- "min_course": 270, "max_course": 90, 
- "max_speed": 10000000000.0}, "geometry": 
- {"type": "Polygon", "coordinates": [
- [
- [29.71631208501308, 60.531929533563516], 
- [29.71880374480597, 59.540549990648776], 
- [29.77678185728207, 59.540660864132994], 
- [29.774803926952206, 60.53204149401599]
- ]
- ]
- }
- }
- ]
- }
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "96079",
+				"source_id": "5119",
+				"limitation_type": "movement_parameters_limitation",
+				"hardness": "soft",
+				"source_object_code": "RECTRC",
+				"min_course": 90,
+				"max_course": 270,
+				"max_speed": 10000000000.0
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							29.656840770917917,
+							60.53227413407
+						],
+						[
+							29.6598597734536,
+							59.540411140949566
+						],
+						[
+							29.71880374480597,
+							59.54054999064878
+						],
+						[
+							29.716307898260894,
+							60.53241434728297
+						]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "96079",
+				"source_id": "5119",
+				"limitation_type": "movement_parameters_limitation",
+				"hardness": "soft",
+				"source_object_code": "RECTRC",
+				"min_course": 270,
+				"max_course": 90,
+				"max_speed": 10000000000.0
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							29.71631208501308,
+							60.53192953356351
+						],
+						[
+							29.71880374480597,
+							59.54054999064878
+						],
+						[
+							29.77678185728207,
+							59.540660864132995
+						],
+						[
+							29.774803926952206,
+							60.53204149401599
+						]
+					]
+				]
+			}
+		}
+	]
+}

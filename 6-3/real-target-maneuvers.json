@@ -1,16 +1,72 @@
-[{"items":[{"lat":60.09416625149135,"lon":29.911241083123433,"begin_angle":104.0,
-"curve":0.0,"duration":2400.0,"length":6.0,"port_dev":0.0,"starboard_dev":0.0}],"start_time":1594891176},
-
-{"items":[{"lat":60.148211149725359,"lon":29.95276951735049,"begin_angle":86.0,
-"curve":0.0,"duration":3600.0,"length":2.0,"port_dev":0.0,"starboard_dev":0.0}],"start_time":1594891176},
-
-
-{"items":[
-{"lat":60.10779145822968,"lon":30.26083755224908,"begin_angle":-1.0,
-"curve":0.0,"duration":600.0,"length":4.0,"port_dev":0.0,"starboard_dev":0.0},
-{"lat":60.17426698265952,"lon":30.258512985127652,"begin_angle":289.0,
-"curve":0.0,"duration":1800.0,"length":12.0,"port_dev":0.0,"starboard_dev":0.0}
-
-],"start_time":1594891176},
-{"items":[{"lat":60.03580682138919,"lon":30.235350424294386,"begin_angle":-13.0,
-"curve":0.0,"duration":3600.0,"length":12.0,"port_dev":0.0,"starboard_dev":0.0}],"start_time":1594891176}]
+[
+	{
+		"items": [
+			{
+				"lat": 60.09416625149135,
+				"lon": 29.911241083123432,
+				"begin_angle": 104.0,
+				"curve": 0.0,
+				"duration": 2400.0,
+				"length": 6.0,
+				"port_dev": 0.0,
+				"starboard_dev": 0.0
+			}
+		],
+		"start_time": 1594891176
+	},
+	{
+		"items": [
+			{
+				"lat": 60.148211149725356,
+				"lon": 29.95276951735049,
+				"begin_angle": 86.0,
+				"curve": 0.0,
+				"duration": 3600.0,
+				"length": 2.0,
+				"port_dev": 0.0,
+				"starboard_dev": 0.0
+			}
+		],
+		"start_time": 1594891176
+	},
+	{
+		"items": [
+			{
+				"lat": 60.10779145822968,
+				"lon": 30.26083755224908,
+				"begin_angle": -1.0,
+				"curve": 0.0,
+				"duration": 600.0,
+				"length": 4.0,
+				"port_dev": 0.0,
+				"starboard_dev": 0.0
+			},
+			{
+				"lat": 60.17426698265952,
+				"lon": 30.258512985127652,
+				"begin_angle": 289.0,
+				"curve": 0.0,
+				"duration": 1800.0,
+				"length": 12.0,
+				"port_dev": 0.0,
+				"starboard_dev": 0.0
+			}
+		],
+		"start_time": 1594891176
+	},
+	{
+		"items": [
+			{
+				"lat": 60.03580682138919,
+				"lon": 30.235350424294385,
+				"begin_angle": -13.0,
+				"curve": 0.0,
+				"duration": 3600.0,
+				"length": 12.0,
+				"port_dev": 0.0,
+				"starboard_dev": 0.0
+			}
+		],
+		"start_time": 1594891176
+	}
+]

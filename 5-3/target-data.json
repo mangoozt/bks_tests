@@ -1,1 +1,46 @@
-[{"id": "target0", "cat": 0, "lat": 60.00792842622893, "lon": 29.68185216685097, "SOG": 18.0, "COG": 90.0, "first_detect_dist": 5.0, "cross_dist": 0, "timestamp": 1594885999}, {"id": "target1", "cat": 0, "lat": 60.10094986031517, "lon": 29.786379661731804, "SOG": 18.0, "COG": 109.0, "first_detect_dist": 5.0, "cross_dist": 0, "timestamp": 1594885999}, {"id": "target2", "cat": 0, "lat": 60.18668419670817, "lon": 29.707940366729694, "SOG": 12.0, "COG": 97.0, "first_detect_dist": 5.0, "cross_dist": 0, "timestamp": 1594885999}, {"id": "target3", "cat": 0, "lat": 60.252938844868936, "lon": 29.61537468783718, "SOG": 12.0, "COG": 105.0, "first_detect_dist": 5.0, "cross_dist": 0, "timestamp": 1594885999}]
+[
+	{
+		"id": "target0",
+		"cat": 0,
+		"lat": 60.00792842622893,
+		"lon": 29.68185216685097,
+		"SOG": 18.0,
+		"COG": 90.0,
+		"first_detect_dist": 5.0,
+		"cross_dist": 0,
+		"timestamp": 1594885999
+	},
+	{
+		"id": "target1",
+		"cat": 0,
+		"lat": 60.10094986031517,
+		"lon": 29.786379661731804,
+		"SOG": 18.0,
+		"COG": 109.0,
+		"first_detect_dist": 5.0,
+		"cross_dist": 0,
+		"timestamp": 1594885999
+	},
+	{
+		"id": "target2",
+		"cat": 0,
+		"lat": 60.18668419670817,
+		"lon": 29.707940366729694,
+		"SOG": 12.0,
+		"COG": 97.0,
+		"first_detect_dist": 5.0,
+		"cross_dist": 0,
+		"timestamp": 1594885999
+	},
+	{
+		"id": "target3",
+		"cat": 0,
+		"lat": 60.252938844868936,
+		"lon": 29.61537468783718,
+		"SOG": 12.0,
+		"COG": 105.0,
+		"first_detect_dist": 5.0,
+		"cross_dist": 0,
+		"timestamp": 1594885999
+	}
+]

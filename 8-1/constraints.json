@@ -1,1 +1,85 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"id": "96079", "source_id": "5119", "limitation_type": "movement_parameters_limitation", "hardness": "soft", "source_object_code": "RECTRC", "min_course": 90, "max_course": 270, "max_speed": 10000000000.0}, "geometry": {"type": "Polygon", "coordinates": [[[30.111750907895242, 60.33101840844566], [30.110494548836012, 59.95839624859107], [30.151929878892602, 59.95835504434818], [30.153657367771427, 60.33097668589781], [30.111750907895242, 60.33101840844566]]]}}, {"type": "Feature", "properties": {"id": "96079", "source_id": "5119", "limitation_type": "movement_parameters_limitation", "hardness": "soft", "source_object_code": "RECTRC", "min_course": 270, "max_course": 90, "max_speed": 10000000000.0}, "geometry": {"type": "Polygon", "coordinates": [[[30.15505096682636, 60.33028248258242], [30.153311054689667, 59.9583534467813], [30.19198391837716, 59.95830284515964], [30.194162719791734, 60.33023124564684], [30.15505096682636, 60.33028248258242]]]}}]}
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "96079",
+				"source_id": "5119",
+				"limitation_type": "movement_parameters_limitation",
+				"hardness": "soft",
+				"source_object_code": "RECTRC",
+				"min_course": 90,
+				"max_course": 270,
+				"max_speed": 10000000000.0
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							30.111750907895242,
+							60.33101840844566
+						],
+						[
+							30.110494548836012,
+							59.95839624859107
+						],
+						[
+							30.151929878892602,
+							59.95835504434818
+						],
+						[
+							30.153657367771427,
+							60.33097668589781
+						],
+						[
+							30.111750907895242,
+							60.33101840844566
+						]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "96079",
+				"source_id": "5119",
+				"limitation_type": "movement_parameters_limitation",
+				"hardness": "soft",
+				"source_object_code": "RECTRC",
+				"min_course": 270,
+				"max_course": 90,
+				"max_speed": 10000000000.0
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							30.15505096682636,
+							60.33028248258242
+						],
+						[
+							30.153311054689667,
+							59.9583534467813
+						],
+						[
+							30.19198391837716,
+							59.95830284515964
+						],
+						[
+							30.194162719791734,
+							60.33023124564684
+						],
+						[
+							30.15505096682636,
+							60.33028248258242
+						]
+					]
+				]
+			}
+		}
+	]
+}

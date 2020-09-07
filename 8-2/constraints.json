@@ -1,1 +1,85 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"id": "96081", "source_id": "5121", "limitation_type": "movement_parameters_limitation", "hardness": "soft", "source_object_code": "TSS", "min_course": 90, "max_course": 270, "max_speed": 10000000000.0}, "geometry": {"type": "Polygon", "coordinates": [[[30.079495060402113, 59.8322898077972], [30.14794896489089, 59.8322898077972], [30.14794896489089, 61.16564908105691], [30.079495060402113, 61.16564908105691], [30.079495060402113, 59.8322898077972]]]}}, {"type": "Feature", "properties": {"id": "96082", "source_id": "5122", "limitation_type": "movement_parameters_limitation", "hardness": "soft", "source_object_code": "TSS", "min_course": 270, "max_course": 90, "max_speed": 10000000000.0}, "geometry": {"type": "Polygon", "coordinates": [[[30.214594905175232, 59.8322898077972], [30.214594905175232, 61.16564908105691], [30.14794896489089, 61.16564908105691], [30.14794896489089, 59.8322898077972], [30.214594905175232, 59.8322898077972]]]}}]}
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "96081",
+				"source_id": "5121",
+				"limitation_type": "movement_parameters_limitation",
+				"hardness": "soft",
+				"source_object_code": "TSS",
+				"min_course": 90,
+				"max_course": 270,
+				"max_speed": 10000000000.0
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							30.079495060402113,
+							59.8322898077972
+						],
+						[
+							30.14794896489089,
+							59.8322898077972
+						],
+						[
+							30.14794896489089,
+							61.16564908105691
+						],
+						[
+							30.079495060402113,
+							61.16564908105691
+						],
+						[
+							30.079495060402113,
+							59.8322898077972
+						]
+					]
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"id": "96082",
+				"source_id": "5122",
+				"limitation_type": "movement_parameters_limitation",
+				"hardness": "soft",
+				"source_object_code": "TSS",
+				"min_course": 270,
+				"max_course": 90,
+				"max_speed": 10000000000.0
+			},
+			"geometry": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							30.214594905175232,
+							59.8322898077972
+						],
+						[
+							30.214594905175232,
+							61.16564908105691
+						],
+						[
+							30.14794896489089,
+							61.16564908105691
+						],
+						[
+							30.14794896489089,
+							59.8322898077972
+						],
+						[
+							30.214594905175232,
+							59.8322898077972
+						]
+					]
+				]
+			}
+		}
+	]
+}

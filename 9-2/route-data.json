@@ -1,1 +1,25 @@
-{"items": [{"begin_angle": 352.0, "curve": 0, "duration": 4000.0, "lat": 60.0, "lon": 30.0, "length": 20.0, "port_dev": 2, "starboard_dev": 2}, {"begin_angle": 0.0, "curve": 0, "duration": 18000.0, "lat": 60.329182462836386, "lon": 29.906688925344348, "length": 90.0, "port_dev": 2, "starboard_dev": 2}], "start_time": 1594978296}
+{
+	"items": [
+		{
+			"begin_angle": 352.0,
+			"curve": 0,
+			"duration": 4000.0,
+			"lat": 60.0,
+			"lon": 30.0,
+			"length": 20.0,
+			"port_dev": 2,
+			"starboard_dev": 2
+		},
+		{
+			"begin_angle": 0.0,
+			"curve": 0,
+			"duration": 18000.0,
+			"lat": 60.329182462836386,
+			"lon": 29.906688925344348,
+			"length": 90.0,
+			"port_dev": 2,
+			"starboard_dev": 2
+		}
+	],
+	"start_time": 1594978296
+}

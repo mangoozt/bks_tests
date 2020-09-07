@@ -1,1 +1,29 @@
-{"target_statuses":[{"id":"target1","danger_level":1,"CPA":6.206823031534046,"TCPA":1531.3264837265015},{"id":"target0","danger_level":1,"CPA":8.051043062809408,"TCPA":1756.0506522655488},{"id":"target2","danger_level":0,"CPA":4.387229019111537,"TCPA":1551.3992459774018},{"id":"target3","danger_level":0,"CPA":0.8835639228260532,"TCPA":1456.168374300003}],"limitations":[]}
+{
+	"target_statuses": [
+		{
+			"id": "target1",
+			"danger_level": 1,
+			"CPA": 6.206823031534046,
+			"TCPA": 1531.3264837265015
+		},
+		{
+			"id": "target0",
+			"danger_level": 1,
+			"CPA": 8.051043062809407,
+			"TCPA": 1756.0506522655487
+		},
+		{
+			"id": "target2",
+			"danger_level": 0,
+			"CPA": 4.387229019111537,
+			"TCPA": 1551.3992459774017
+		},
+		{
+			"id": "target3",
+			"danger_level": 0,
+			"CPA": 0.8835639228260532,
+			"TCPA": 1456.168374300003
+		}
+	],
+	"limitations": []
+}
