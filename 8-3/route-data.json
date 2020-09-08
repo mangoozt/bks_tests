@@ -1,11 +1,11 @@
 {
 	"items": [
 		{
-			"begin_angle": 292.0,
+			"begin_angle": 0.0,
 			"curve": 0,
 			"duration": 7200.0,
-			"lat": 60.0,
-			"lon": 30.0,
+			"lat": 56.68569999999999,
+			"lon": 19.632099999999998,
 			"length": 30.0,
 			"port_dev": 5.0,
 			"starboard_dev": 5.0
