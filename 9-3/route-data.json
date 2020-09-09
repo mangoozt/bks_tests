@@ -1,21 +1,21 @@
 {
 	"items": [
 		{
-			"begin_angle": 353.0,
+			"begin_angle": 287.0,
 			"curve": 0,
 			"duration": 4000.0,
-			"lat": 60.0,
-			"lon": 30.0,
+			"lat": 56.6857,
+			"lon": 19.632099999999998,
 			"length": 20.0,
 			"port_dev": 2,
 			"starboard_dev": 2
 		},
 		{
-			"begin_angle": 0.0,
+			"begin_angle": 294.0,
 			"curve": 0,
 			"duration": 18000.0,
-			"lat": 60.329947410388044,
-			"lon": 29.918288633318316,
+			"lat": 56.685878259943145,
+			"lon": 19.63206018490417,
 			"length": 60.0,
 			"port_dev": 2,
 			"starboard_dev": 2
