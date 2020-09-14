@@ -3,6 +3,7 @@
 		"priority": 0,
 		"maneuver_way": 0,
 		"safe_diverg_dist": 2.5,
+		"min_diverg_dist": 1.2,
 		"minimal_speed": 3.0,
 		"maximal_speed": 30.0,
 		"max_course_delta": 180,
