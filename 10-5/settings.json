@@ -21,7 +21,7 @@
     "breaking_distance": 0,
     "run_out_distance": 0,
     "forecast_time": 14400,
-    "min_diverg_dist": 2.0250000000000004
+    "min_diverg_dist": 2.43
   },
   "safety_control": {
     "cpa": 2.7,
