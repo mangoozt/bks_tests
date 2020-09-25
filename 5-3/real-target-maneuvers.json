@@ -86,8 +86,8 @@
 				"lon": 19.371612612558913,
 				"begin_angle": 14.0,
 				"curve": 0.0,
-				"duration": 900.0,
-				"length": 3.0,
+				"duration": 1800.0,
+				"length": 6.0,
 				"port_dev": 0.0,
 				"starboard_dev": 0.0
 			}
