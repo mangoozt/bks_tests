@@ -22,17 +22,17 @@
 				"begin_angle": 222.0,
 				"curve": 0.0,
 				"duration": 1800.0,
-				"length": 4.2,
+				"length": 3,
 				"port_dev": 0.0,
 				"starboard_dev": 0.0
 			},
 			{
-				"lat": 56.747691929764606,
-				"lon": 19.68897650437317,
+				"lat": 56.762691929764606,
+				"lon": 19.71297650437317,
 				"begin_angle": 271.0,
 				"curve": 0.0,
 				"duration": 1800.0,
-				"length": 4.2,
+				"length": 3,
 				"port_dev": 0.0,
 				"starboard_dev": 0.0
 			}
@@ -54,7 +54,7 @@
 			{
 				"lat": 56.73632551647932,
 				"lon": 19.703476345809673,
-				"begin_angle": 277.0,
+				"begin_angle": 297.0,
 				"curve": 0.0,
 				"duration": 900.0,
 				"length": 3.75,
