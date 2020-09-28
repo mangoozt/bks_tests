@@ -2,7 +2,7 @@
   "maneuver_calculation": {
     "priority": 0,
     "maneuver_way": 0,
-    "safe_diverg_dist": 1.5,
+    "safe_diverg_dist": 2.5,
     "minimal_speed": 3.0,
     "maximal_speed": 30.0,
     "max_course_delta": 180,
@@ -21,10 +21,10 @@
     "breaking_distance": 0,
     "run_out_distance": 0,
     "forecast_time": 14400,
-    "min_diverg_dist": 1.125
+    "min_diverg_dist": 2.25
   },
   "safety_control": {
-    "cpa": 1.5,
+    "cpa": 3,
     "tcpa": 900,
     "min_detect_dist": 15.0,
     "last_moment_dist": 2.0,

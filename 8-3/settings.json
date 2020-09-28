@@ -2,13 +2,13 @@
   "maneuver_calculation": {
     "priority": 0,
     "maneuver_way": 0,
-    "safe_diverg_dist": 3.0,
+    "safe_diverg_dist": 1.3333,
     "minimal_speed": 3.0,
     "maximal_speed": 30.0,
     "max_course_delta": 180,
     "time_advance": 300,
     "can_leave_route": true,
-    "max_route_deviation": 4,
+    "max_route_deviation": 5,
     "forward_speed1": 3.0,
     "forward_speed2": 9.75,
     "forward_speed3": 16.5,
@@ -21,7 +21,7 @@
     "breaking_distance": 0,
     "run_out_distance": 0,
     "forecast_time": 14400,
-    "min_diverg_dist": 2.25
+    "min_diverg_dist": 1.2
   },
   "safety_control": {
     "cpa": 3.0,
