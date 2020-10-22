@@ -26,7 +26,7 @@
   "safety_control": {
     "cpa": 2.7,
     "tcpa": 900,
-    "min_detect_dist": 15.0,
+    "min_detect_dist": 9.0,
     "last_moment_dist": 2.0,
     "safety_zone": {
       "safety_zone_type": 0,
